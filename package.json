@@ -1,7 +1,7 @@
 {
-  "name": "hyperyellow",
+  "name": "hyper-lowcontrast",
   "version": "0.0.1",
   "keywords": ["hyper"],
-  "description": "",
+  "description": "A Low Contrast, dark theme in my favorite colors!",
   "dependencies": {}
 }
